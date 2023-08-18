@@ -1,0 +1,15 @@
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.csproj.AssemblyReference.cache
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.AssemblyInfoInputs.cache
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.AssemblyInfo.cs
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.csproj.CoreCompileInputs.cache
+D:\programacion\practicas_1\practicas_1\bin\Debug\net7.0\practicas_1.exe
+D:\programacion\practicas_1\practicas_1\bin\Debug\net7.0\practicas_1.deps.json
+D:\programacion\practicas_1\practicas_1\bin\Debug\net7.0\practicas_1.runtimeconfig.json
+D:\programacion\practicas_1\practicas_1\bin\Debug\net7.0\practicas_1.dll
+D:\programacion\practicas_1\practicas_1\bin\Debug\net7.0\practicas_1.pdb
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.dll
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\refint\practicas_1.dll
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.pdb
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\practicas_1.genruntimeconfig.cache
+D:\programacion\practicas_1\practicas_1\obj\Debug\net7.0\ref\practicas_1.dll

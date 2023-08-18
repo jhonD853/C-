@@ -1,0 +1,15 @@
+D:\programacion\calculadora1\calculadora1\bin\Debug\net7.0\calculadora1.exe
+D:\programacion\calculadora1\calculadora1\bin\Debug\net7.0\calculadora1.deps.json
+D:\programacion\calculadora1\calculadora1\bin\Debug\net7.0\calculadora1.runtimeconfig.json
+D:\programacion\calculadora1\calculadora1\bin\Debug\net7.0\calculadora1.dll
+D:\programacion\calculadora1\calculadora1\bin\Debug\net7.0\calculadora1.pdb
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.csproj.AssemblyReference.cache
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.AssemblyInfoInputs.cache
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.AssemblyInfo.cs
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.csproj.CoreCompileInputs.cache
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.dll
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\refint\calculadora1.dll
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.pdb
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\calculadora1.genruntimeconfig.cache
+D:\programacion\calculadora1\calculadora1\obj\Debug\net7.0\ref\calculadora1.dll

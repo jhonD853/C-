@@ -1,0 +1,15 @@
+D:\programacion\clase9_1\clase9_1\bin\Debug\net7.0\clase9_1.exe
+D:\programacion\clase9_1\clase9_1\bin\Debug\net7.0\clase9_1.deps.json
+D:\programacion\clase9_1\clase9_1\bin\Debug\net7.0\clase9_1.runtimeconfig.json
+D:\programacion\clase9_1\clase9_1\bin\Debug\net7.0\clase9_1.dll
+D:\programacion\clase9_1\clase9_1\bin\Debug\net7.0\clase9_1.pdb
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.csproj.AssemblyReference.cache
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.AssemblyInfoInputs.cache
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.AssemblyInfo.cs
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.csproj.CoreCompileInputs.cache
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.dll
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\refint\clase9_1.dll
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.pdb
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\clase9_1.genruntimeconfig.cache
+D:\programacion\clase9_1\clase9_1\obj\Debug\net7.0\ref\clase9_1.dll
