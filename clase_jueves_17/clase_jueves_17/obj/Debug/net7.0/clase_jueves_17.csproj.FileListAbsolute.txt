@@ -1,0 +1,15 @@
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.csproj.AssemblyReference.cache
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.AssemblyInfoInputs.cache
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.AssemblyInfo.cs
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.csproj.CoreCompileInputs.cache
+D:\programacion\clase_jueves_17\clase_jueves_17\bin\Debug\net7.0\clase_jueves_17.exe
+D:\programacion\clase_jueves_17\clase_jueves_17\bin\Debug\net7.0\clase_jueves_17.deps.json
+D:\programacion\clase_jueves_17\clase_jueves_17\bin\Debug\net7.0\clase_jueves_17.runtimeconfig.json
+D:\programacion\clase_jueves_17\clase_jueves_17\bin\Debug\net7.0\clase_jueves_17.dll
+D:\programacion\clase_jueves_17\clase_jueves_17\bin\Debug\net7.0\clase_jueves_17.pdb
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.dll
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\refint\clase_jueves_17.dll
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.pdb
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\clase_jueves_17.genruntimeconfig.cache
+D:\programacion\clase_jueves_17\clase_jueves_17\obj\Debug\net7.0\ref\clase_jueves_17.dll
